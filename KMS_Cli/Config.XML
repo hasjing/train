@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KMS_Server_Site>
+  <WinKey>W269N-WFGWX-YVC9B-4J6C9-T83GX</WinKey>
+  <Office2016>XQNVK-8JYDB-WJ9W3-YJ8YR-WFG99</Office2016>
+  <Office2019>N9J9Q-Q7MMP-XDDM6-63KKP-76FPM</Office2019>
+  <Servers>
+    <Server ID="1">
+        <Defalut>True</Defalut>
+        <Name>songjingb-3</Name>
+        <IP>10.4.5.217</IP>
+        <Description>DC公司内网</Description>
+    </Server>
+    <Server ID="2">
+        <Defalut>False</Defalut>
+        <Name>www.dcxtest.cn</Name>
+        <IP>47.96.119.7</IP>
+        <Description>阿里云虚拟主机服务器</Description>
+    </Server>
+  </Servers>
+</KMS_Server_Site>
